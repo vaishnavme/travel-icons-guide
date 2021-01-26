@@ -1,0 +1,47 @@
+.show {
+  font-size: 22px;
+  max-width: 450px;
+  padding: 0.5rem;
+  margin: 1rem auto;
+  border-radius: 5px;
+  background-color: #1f1f1f;
+}
+input {
+  padding: 10px;
+  border-radius: 5px;
+  color: #eeeeee;
+  background-color: #1f1f1f;
+  border: 3px solid #1f1f1f;
+  margin: 2rem;
+}
+input:focus {
+  outline: none;
+}
+.emojiPara {
+  display: inline;
+  font-size: 1.5rem;
+  margin: 1.5rem;
+  padding: 0.5rem;
+  line-height: 4rem;
+  cursor: pointer;
+  border-radius: 5px;
+  background-color: #1f1f1f;
+}
+.guide {
+  letter-spacing: 0.8px;
+  padding: 2rem;
+  margin: 1rem auto;
+  text-align: left;
+}
+footer {
+  background-color: #1f1f1f;
+  text-align: center;
+  padding: 20px;
+  border-radius: 5px;
+  line-height: 0.5rem;
+}
+footer a {
+  text-decoration: none;
+  color: #eeeeee;
+  letter-spacing: 0.8px;
+}
