@@ -1,11 +1,11 @@
 import React from 'react';
-import logo from './logo.svg';
+import EmojiHandler from './components/EmojiHandler';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-      
+      <EmojiHandler/>
     </div>
   );
 }
